@@ -5,7 +5,7 @@ My Name is Dineshsingh Rajpurohit.I'm a 3rd year tudent at Parul University purs
 
 Skills: C++ / Java / Kotlin / Android Development
 
-![Dinesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chhabraharsh37&theme=dracula)
+![Dinesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dineshraj92422&theme=dracula)
 
 # Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
