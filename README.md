@@ -15,7 +15,7 @@ Skills: C++ / Java / Kotlin / Android Development
 <p align="center"> </br>
  
 <div align="center"> </br>
- </br> <h4>🏆 Github Profile Trophies</h4>
+ </br> <h4>🏆 Github Profile Trophies</h4> </br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=dineshraj92422&theme=monokai&row=1&column=8">
   </a>
