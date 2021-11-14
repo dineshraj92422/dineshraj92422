@@ -12,3 +12,19 @@ Skills: C++ / Java / Kotlin / Android Development
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshraj92422&theme=dracula&hide_langs_below=1" /></br>
 
+<p align="center"> 
+ 
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=dineshraj92422&theme=monokai&row=1&column=8">
+  </a>
+</div><hr>
+
+![GitHub metrics](https://metrics.lecoq.io/dineshraj92422?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
+
+## Badges
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+
