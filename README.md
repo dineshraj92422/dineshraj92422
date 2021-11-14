@@ -3,11 +3,8 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/>, I'm Dineshsingh Rajpurohit </h1>
   
   
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="100px" height="100px"></img> <br><br><br>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFAB00&lines=Just+a+coder%2c+Love+Ethical+Hacking..)](https://git.io/typing-svg)
-  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /> 
- 
-
+  
 Skills: C++ / Java / Kotlin / Android Development
 
 ![Dinesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dineshraj92422&theme=dracula)
