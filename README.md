@@ -1,7 +1,7 @@
-### Hi there 👋
-
-
-My Name is Dineshsingh Rajpurohit.I'm a 3rd year tudent at Parul University pursuing my Btech degree in the CSE branch.
+<h4 align="center"> 
+  
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/>, I'm Dineshsingh Rajpurohit </h1>
+ 
 
 Skills: C++ / Java / Kotlin / Android Development
 
