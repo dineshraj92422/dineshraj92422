@@ -12,10 +12,10 @@ Skills: C++ / Java / Kotlin / Android Development
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshraj92422&theme=dracula&hide_langs_below=1" /></br>
 
-<p align="center"> 
+<p align="center"> </br>
  
-<div align="center">
-  <h4>🏆 Github Profile Trophies</h4>
+<div align="center"> </br>
+ </br> <h4>🏆 Github Profile Trophies</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=dineshraj92422&theme=monokai&row=1&column=8">
   </a>
