@@ -10,7 +10,7 @@ Skills: C++ / Java / Kotlin / Android Development
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshraj92422&show_icons=true&theme=dracula) </br>
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dineshraj92422&theme=tokyonight)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshraj92422&theme=dracula&hide_langs_below=1" /></br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshraj92422&theme=dracula&hide_langs_below=1" /></br>
 
 <p align="center"> 
  
