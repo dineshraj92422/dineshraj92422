@@ -5,7 +5,7 @@
   
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="100px" height="100px"></img> <br><br>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFAB00&lines=Just+a+coder%2c+Love+Ethical+Hacking..)](https://git.io/typing-svg)
-  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
+  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /> </br>
  
 
 Skills: C++ / Java / Kotlin / Android Development
