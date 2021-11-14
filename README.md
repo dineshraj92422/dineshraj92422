@@ -11,3 +11,5 @@ Skills: C++ / Java / Kotlin / Android Development
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dineshraj92422&theme=tokyonight)
 
 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshraj92422&theme=dracula&hide_langs_below=1" /></br>
+
