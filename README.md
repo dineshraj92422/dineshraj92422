@@ -5,9 +5,8 @@
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFAB00&lines=Just+a+coder..)](https://git.io/typing-svg)
   
-Skills: C++ / Java / Kotlin / Android Development
+Skills: Java / Kotlin / Android Development
 
-![Dinesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dineshraj92422&theme=dracula)
 
 # Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
@@ -30,7 +29,7 @@ Skills: C++ / Java / Kotlin / Android Development
  <p align="center"> 
  
 <div align="center">
-  <h4>🏆 Github Profile Trophies</h4>
+  <h4>🏆 GitHub Profile Trophies</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=dineshraj92422&theme=monokai&row=1&column=8">
   </a>
