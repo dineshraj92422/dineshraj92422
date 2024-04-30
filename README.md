@@ -5,7 +5,7 @@
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFAB00&lines=Just+a+coder..)](https://git.io/typing-svg)
   
-Skills: HTML | CSS | JAVASCRIPT | REACT.JS | EXPRESS.JS | NODE.JS | MONGODB | MERN STACT DEVELOPER
+Skills: HTML | CSS | JAVASCRIPT | REACT.JS | EXPRESS.JS | NODE.JS | MONGODB | MERN STACK DEVELOPER
 
 
 # Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
